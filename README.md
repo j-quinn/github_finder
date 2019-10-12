@@ -1,4 +1,4 @@
-#github_finder
+# github_finder
 
 This is the output of a tutorial by @bradtraversy hosted at https://www.udemy.com/course/modern-react-front-to-back
 
